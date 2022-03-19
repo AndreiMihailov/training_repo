@@ -1,1 +1,2 @@
 my firstwork with git
+some big changes
